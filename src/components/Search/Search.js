@@ -25,7 +25,7 @@ function Search(){
                     <div className="col col-lg-8 col-xl-10">
                     {listSearch &&
                         <div >
-                        <h5 className="mb-3" >Kết quả tìm kiếm cho từ khóa: <span style={{color: "red"}}>           {listSearch.keyword}
+                        <h5 className="mb-3 mt-5" >Kết quả tìm kiếm cho từ khóa: <span style={{color: "red"}}>           {listSearch.keyword}
                         </span></h5>
                         
                         {/* user result */}
